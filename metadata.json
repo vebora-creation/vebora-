@@ -1,0 +1,7 @@
+{
+  "name": "Vebora - Digital Solutions",
+  "description": "Premium digital agency website for Vebora, offering web design, SEO, and AI solutions for global businesses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
